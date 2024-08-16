@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	sentence   = "Shell位于用户与系统之间，用来帮助用户与操作系统进行沟通。 "
+	sentence   = "Shell位于用户与系统之间，用来帮助用户与操作系统进行沟通。"
 	resultTest = []string{"Shell", "操作系统", "沟通"}
 	jieBaGo    = NewJieBaGo()
 )
